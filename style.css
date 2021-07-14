@@ -1,0 +1,60 @@
+hr
+        {
+            background-color: darkcyan;
+            height: 2px;
+        }
+        h1
+        {
+            font-size: 50px;
+            text-shadow: darkkhaki 3px 3px 3px;
+        }
+        .panelcolour
+        {
+            background-color: rgb(175, 145, 204);
+        }
+        #list
+        {
+            font-size: 16px;
+            font-family: cursive;
+      font-weight: 900;
+      color: rgb(48, 51, 201);
+        } 
+        body
+        { 
+            margin: 0px;
+            background-image: url(ce.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    .maincontainer
+    {
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: underline;
+        color: rgb(51, 38, 122);
+        text-align: center;
+        background-color: rgb(179, 165, 238);
+        text-shadow: white 5px, 5px ,5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .middlecontainer
+    {
+        background-color: rgb(85, 125, 184);
+        font-size: 20px;
+        font-weight: lighter;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        align-items: center;
+        margin: auto;
+        width: 300px;
+        border-radius: 15px;
+    }
+    .box
+    {
+        padding-top: 10px;
+        width: 450px;
+        margin: auto;
+        border-radius: 5px;
+        background-color: rgb(245, 156, 237);
+        font-size: 18px;
+    }
